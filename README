@@ -1,0 +1,12 @@
+Python representation of Encoding.com's API. The 'fastenc' name is derived
+from the company name you get when you whois encoding.com: Fast Encoding Inc.
+
+All of the media encoding workflow is in place, but the user management
+features of encoding.com's API are only stubbed out.
+
+Usage examples exist in comments at the moment, and there's some Sphinx
+autodoc goodness.
+
+Some inspiration for the way requests are handled came from Brian Jinwright's
+'demavision-encoding' projects on github (Thanks Brian!):
+https://github.com/bjinwright/demavision-encoding
